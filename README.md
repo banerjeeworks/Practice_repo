@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @banerjeeworks
+- 👋 Hi, I’m Soumya Banerjee 
 - 👀 I’m interested in Machine Learning, Data Science and Full Stack Development.
 - 🌱 I’m currently learning DevOps and Ktor.
 - 💞️ I’m looking to collaborate on Backend Projects involving Ktor and Kotlin.
