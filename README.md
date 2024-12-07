@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Soumya Banerjee 
-- 👀 I’m interested in Machine Learning, Data Science and Full Stack Development.
-- 🌱 I’m currently learning DevOps and Ktor.
+- 👀 I’m interested in Full Stack Development.
+- 🌱 I’m currently learning Kotlin, Java for languages and Ktor, Springboot as frameworks etc.
 - 💞️ I’m looking to collaborate on Backend Projects involving Ktor and Kotlin.
 - 📫 How to reach me soumyab890@gmail.com or banerjeeworks@gmail.com
 
